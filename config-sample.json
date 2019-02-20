@@ -1,0 +1,11 @@
+{
+    "default": {
+        "domain": "",
+        "port": 22,
+        "username": "",
+        "proxyserver": "",
+        "proxyip": "",
+	"proxyport": 
+
+    }
+}
