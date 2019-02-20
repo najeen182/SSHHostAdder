@@ -18,7 +18,6 @@ domain(domainname)
 port(if other than port 22)
 username:username
 if you have proxy server than configure proxy parameter
-
 {
     "default": {
         "domain": "example.com",
@@ -27,8 +26,8 @@ if you have proxy server than configure proxy parameter
         "proxyserver": "",
         "proxyip": "",
 	"proxyport": 
-
     }
 }
+
 usage: application.py [-h] -i HOSTNAME [-p CPORT] [-u UNAME] [-c CNAME]
 
