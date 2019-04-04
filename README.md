@@ -30,5 +30,5 @@ if you have proxy server than configure proxy parameter
     }
 }
 ```
-usage: application.py [-h] -i HOSTNAME [-p CPORT] [-u UNAME] [-c CNAME]
+```usage: application.py [-h] -i HOSTNAME [-p CPORT] [-u UNAME] [-c CNAME]```
 
