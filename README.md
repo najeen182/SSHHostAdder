@@ -10,6 +10,7 @@ When you have dozen of server to login on daily basis. Its really difficult typi
 
 
 **Using Application**
+
 Setup Few things Before exeucting script
 Copy config-sample.json to config.json
 
